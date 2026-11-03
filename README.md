@@ -1,56 +1,41 @@
 <p align="center">
-  <img src="assets/01-hero.png" width="100%" alt="Gaurav Kumar — full-stack developer working with React, Next.js, TypeScript and Node.js">
+  <img src="assets/01-hero.png" width="100%" alt="Gaurav Kumar — Build things. Make them matter. Full Stack Developer, React JS and Node JS.">
 </p>
 
 <p align="center">
-  <img src="assets/02-about.png" width="100%" alt="About Gaurav Kumar: a web developer who builds responsive interfaces and reliable application logic">
+  <img src="assets/02-about.png" width="100%" alt="About Gaurav Kumar — web developer building responsive interfaces, application logic, APIs and data-driven features.">
 </p>
 
 <p align="center">
-  <img src="assets/03-toolkit.png" width="100%" alt="Technology toolkit: React JS, Next.js, TypeScript, React Native, Expo, Jest, Node.js, Express.js and MongoDB">
+  <img src="assets/03-toolkit.png" width="100%" alt="Toolkit: React JS, Next.js, TypeScript, React Native, Expo, Jest, Node.js, Express.js and MongoDB.">
 </p>
 
 <p align="center">
   <a href="https://github.com/gauravsof05-arch/mern-portfolio">
-    <img src="assets/04-projects-1.png" width="49%" alt="MERN Portfolio — full-stack portfolio project with separate client and server applications">
+    <img src="assets/04-projects-1.png" width="100%" alt="MERN Portfolio — full-stack portfolio project with separate client and server applications.">
   </a>
+</p>
+
+<p align="center">
   <a href="https://github.com/gauravsof05-arch/ShoppingCart">
-    <img src="assets/05-projects-2.png" width="49%" alt="ShoppingCart — JavaScript shopping cart project">
+    <img src="assets/05-projects-2.png" width="100%" alt="ShoppingCart — MERN full-stack shopping cart application with frontend, backend, and database integration.">
+  </a>
+</p>
+
+<p align="center">
+  <img src="assets/06-activity.png" width="100%" alt="The work in progress — show up, keep building.">
+</p>
+
+<p align="center">
+  <a href="https://github-readme-activity-graph.vercel.app/graph?username=gauravsof05-arch&bg_color=1b382a&color=ffffff&line=f5d52e&point=ffffff&area=true&hide_border=true">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=gauravsof05-arch&bg_color=1b382a&color=ffffff&line=f5d52e&point=ffffff&area=true&hide_border=true" width="100%" alt="Live GitHub contribution activity graph for gauravsof05-arch.">
   </a>
 </p>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/gaurav-pure2/">LinkedIn</a> ·
   <a href="https://mern-portfolio-3hfs.vercel.app/">Portfolio</a> ·
-  <a href="mailto:gaurav.sof.05@gmail.com">Email</a>
+  <a href="https://github.com/gauravsof05-arch">GitHub</a>
 </p>
-
----
-
-### About
-
-I'm Gaurav Kumar, a web developer working across the JavaScript ecosystem. I enjoy building clean, responsive interfaces and bringing them to life with reliable application logic, APIs, and data-driven features.
-
-### Toolkit
-
-| Frontend | Mobile & testing | Backend & data |
-| --- | --- | --- |
-| React JS, Next.js, TypeScript | React Native, Expo, Jest | Node.js, Express.js, MongoDB |
-
-### Selected projects
-
-**[MERN Portfolio](https://github.com/gauravsof05-arch/mern-portfolio)**  
-A full-stack portfolio project, organized with separate client and server applications.
-
-**[ShoppingCart](https://github.com/gauravsof05-arch/ShoppingCart)**  
-A JavaScript shopping cart project.
-
-### Connect
-
-- [LinkedIn](https://www.linkedin.com/in/gaurav-pure2/)
-- [Portfolio](https://mern-portfolio-3hfs.vercel.app/)
-- [GitHub](https://github.com/gauravsof05-arch)
-
----
 
 <p align="center"><i>Explore. Build. Share. Repeat.</i></p>
