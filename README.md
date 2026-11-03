@@ -23,7 +23,7 @@
 </p>
 
 <p align="center">
-  <img src="assets/06-activity.png" width="100%" alt="The work in progress — show up, keep building.">
+  <img src="assets/07-repositories-activity.png" width="100%" alt="Featured repositories and GitHub contribution activity.">
 </p>
 
 <p align="center">
