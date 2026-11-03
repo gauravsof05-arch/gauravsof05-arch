@@ -1,0 +1,106 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<title>Gaurav Kumar – GitHub profile sections</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link href="https://fonts.googleapis.com/css2?family=Fraunces:ital,opsz,wght@0,9..144,400;1,9..144,400&family=Inter:wght@400;500;600&display=swap" rel="stylesheet">
+<style>
+  :root{ --cream:#efead6; --green:#1f3326; --green2:#2a4333; --ink:#1b2a20; --muted:#5b6b5f; --gold:#d9b93a; }
+  *{ box-sizing:border-box; margin:0; padding:0; }
+  body{ background:#888; font-family:'Inter',system-ui,sans-serif; }
+  section{ width:800px; overflow:hidden; }
+  .serif{ font-family:'Fraunces',Georgia,serif; font-weight:400; }
+  .label{ font-size:16px; letter-spacing:.18em; text-transform:uppercase; font-weight:500; }
+
+  /* HERO */
+  #hero{ background:var(--green); color:var(--cream); padding:90px 64px 70px; }
+  #hero .label{ color:var(--gold); margin-bottom:28px; }
+  #hero h1{ font-size:78px; line-height:1.02; letter-spacing:-.02em; }
+  #hero h1 em{ font-style:italic; color:#cfe0c8; }
+  #hero .line{ height:1px; background:rgba(239,234,214,.3); margin:44px 0 26px; }
+  #hero .meta{ font-size:20px; display:flex; justify-content:space-between; color:#d9d6c0; }
+
+  /* ABOUT */
+  #about{ background:var(--cream); color:var(--ink); padding:64px; display:flex; gap:44px; align-items:center; }
+  .photo{ flex:0 0 250px; height:320px; background:var(--green); border-radius:6px; display:flex; align-items:flex-end; justify-content:center; padding-bottom:18px; color:var(--cream); font-size:16px; letter-spacing:.12em; text-transform:uppercase; text-align:center; }
+  #about .label{ color:var(--muted); margin-bottom:16px; }
+  #about h2{ font-size:46px; line-height:1.08; margin-bottom:22px; }
+  #about h2 em{ font-style:italic; }
+  #about p{ font-size:21px; line-height:1.5; color:#2c3c31; }
+
+  /* TOOLKIT */
+  #toolkit{ background:var(--green); color:var(--cream); padding:64px; }
+  #toolkit .label{ color:var(--gold); margin-bottom:18px; }
+  #toolkit h2{ font-size:52px; line-height:1.08; margin-bottom:12px; }
+  #toolkit .sub{ font-size:20px; color:#b9c7b8; margin-bottom:40px; }
+  .buckets{ display:grid; grid-template-columns:repeat(3,1fr); gap:18px; }
+  .bucket{ background:var(--green2); border:1px solid rgba(239,234,214,.2); border-radius:6px; padding:24px 22px; }
+  .bucket .n{ font-size:16px; color:var(--gold); margin-bottom:10px; }
+  .bucket h3{ font-size:20px; font-weight:600; letter-spacing:.06em; text-transform:uppercase; margin-bottom:14px; }
+  .bucket p{ font-size:18px; line-height:1.6; color:#dcdcc8; }
+
+  /* PROJECT CARDS */
+  .card{ background:var(--cream); color:var(--ink); padding:48px 44px; border:1px solid #cfc9ac; min-height:420px; display:flex; flex-direction:column; }
+  .card.alt{ background:var(--green); color:var(--cream); border-color:var(--green2); }
+  .card .label{ color:var(--muted); margin-bottom:20px; }
+  .card.alt .label{ color:var(--gold); }
+  .card h3{ font-size:48px; line-height:1.05; margin-bottom:22px; }
+  .card h3 em{ font-style:italic; }
+  .card p{ font-size:24px; line-height:1.5; flex:1; }
+  .card .tags{ font-size:18px; letter-spacing:.06em; text-transform:uppercase; color:var(--muted); border-top:1px solid rgba(0,0,0,.2); padding-top:18px; margin-top:28px; }
+  .card.alt .tags{ color:#b9c7b8; border-top-color:rgba(239,234,214,.3); }
+</style>
+</head>
+<body>
+
+<section id="hero">
+  <div class="label">React · TypeScript · Next.js</div>
+  <h1 class="serif">Build clean UIs.<br><em>Ship them well.</em></h1>
+  <div class="line"></div>
+  <div class="meta"><span>Gaurav Kumar · React JS Developer</span><span>Noida, India</span></div>
+</section>
+
+<section id="about">
+  <div class="photo">Your photo<br>here</div>
+  <div>
+    <div class="label">01 / The person behind the code</div>
+    <h2 class="serif">Frontend developer, <em>built for the real world.</em></h2>
+    <p>I build fast, reliable React apps, from enterprise products at TELUS Digital to my own lending app. I like clean code, good tests and interfaces people enjoy using.</p>
+  </div>
+</section>
+
+<section id="toolkit">
+  <div class="label">02 / The toolkit</div>
+  <h2 class="serif">Different tools. One purpose.</h2>
+  <div class="sub">Build it well, test it, ship it.</div>
+  <div class="buckets">
+    <div class="bucket"><div class="n">01</div><h3>Frontend</h3><p>React JS<br>Next.js<br>TypeScript</p></div>
+    <div class="bucket"><div class="n">02</div><h3>Testing</h3><p>Jest<br>Unit tests<br>QA mindset</p></div>
+    <div class="bucket"><div class="n">03</div><h3>Mobile &amp; API</h3><p>React Native · Expo<br>Express<br>MongoDB</p></div>
+  </div>
+</section>
+
+<section id="projects-1" class="card">
+  <div class="label">03 / Project one</div>
+  <h3 class="serif">FastLoan, <em>a lending app.</em></h3>
+  <p>My own Android loan-lending app, built end to end with a React Native front end and an Express and MongoDB backend.</p>
+  <div class="tags">Expo · React Native · Express · MongoDB</div>
+</section>
+
+<section id="projects-2" class="card alt">
+  <div class="label">03 / Project two</div>
+  <h3 class="serif">Project name, <em>one clear idea.</em></h3>
+  <p>Replace this with one line about what your second project does and who it helps.</p>
+  <div class="tags">Tech · Tech · Tech</div>
+</section>
+
+<section id="projects-3" class="card">
+  <div class="label">03 / Project three</div>
+  <h3 class="serif">Project name, <em>one clear idea.</em></h3>
+  <p>Replace this with one line about what your third project does and who it helps.</p>
+  <div class="tags">Tech · Tech · Tech</div>
+</section>
+
+</body>
+</html>
