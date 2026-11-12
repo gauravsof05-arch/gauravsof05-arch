@@ -1,41 +1,29 @@
 <p align="center">
-  <img src="assets/01-hero.png" width="100%" alt="Gaurav Kumar — Build things. Make them matter. Full Stack Developer, React JS and Node JS.">
+  <img src="assets/01-hero.png" width="100%" alt="Build clean UIs. Ship them well. - Gaurav Kumar, Full Stack Developer">
 </p>
 
 <p align="center">
-  <img src="assets/02-about.png" width="100%" alt="About Gaurav Kumar — web developer building responsive interfaces, application logic, APIs and data-driven features.">
+  <img src="assets/02-about.png" width="100%" alt="About me: full stack developer who builds fast, reliable React apps and likes clean code and good tests">
 </p>
 
 <p align="center">
-  <img src="assets/03-toolkit.png" width="100%" alt="Toolkit: React JS, Next.js, TypeScript, React Native, Expo, Jest, Node.js, Express.js and MongoDB.">
+  <img src="assets/03-toolkit.png" width="100%" alt="Toolkit: React JS, Next.js, TypeScript, Jest, React Native, Expo, Express, MongoDB">
+</p>
+
+<!-- Project cards: each image is a clickable link. -->
+<p align="center">
+  <a href="https://github.com/gauravsof05-arch/ShoppingCart"><img src="assets/04-projects-1.png" width="49%" alt="Shopping Cart project"></a>
+  <a href="https://github.com/gauravsof05-arch/mern-portfolio"><img src="assets/05-projects-2.png" width="49%" alt="MERN Portfolio project"></a>
 </p>
 
 <p align="center">
-  <a href="https://github.com/gauravsof05-arch/mern-portfolio">
-    <img src="assets/04-projects-1.png" width="100%" alt="MERN Portfolio — full-stack portfolio project with separate client and server applications.">
-  </a>
+  <img src="assets/06-activity.png" width="100%" alt="Show up. Keep building. GitHub contribution activity">
 </p>
 
 <p align="center">
-  <a href="https://github.com/gauravsof05-arch/ShoppingCart">
-    <img src="assets/05-projects-2.png" width="100%" alt="ShoppingCart — MERN full-stack shopping cart application with frontend, backend, and database integration.">
-  </a>
+  <img src="assets/07-repositories-activity.png" width="100%" alt="Featured repositories: MERN Portfolio and ShoppingCart. GitHub activity: 48 contributions in the last year">
 </p>
 
 <p align="center">
-  <img src="assets/07-repositories-activity.png" width="100%" alt="Featured repositories and GitHub contribution activity.">
+  <a href="https://www.linkedin.com/in/gaurav-pure2">LinkedIn</a>
 </p>
-
-<p align="center">
-  <a href="https://github-readme-activity-graph.vercel.app/graph?username=gauravsof05-arch&bg_color=1b382a&color=ffffff&line=f5d52e&point=ffffff&area=true&hide_border=true">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=gauravsof05-arch&bg_color=1b382a&color=ffffff&line=f5d52e&point=ffffff&area=true&hide_border=true" width="100%" alt="Live GitHub contribution activity graph for gauravsof05-arch.">
-  </a>
-</p>
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/gaurav-pure2/">LinkedIn</a> ·
-  <a href="https://mern-portfolio-3hfs.vercel.app/">Portfolio</a> ·
-  <a href="https://github.com/gauravsof05-arch">GitHub</a>
-</p>
-
-<p align="center"><i>Explore. Build. Share. Repeat.</i></p>
